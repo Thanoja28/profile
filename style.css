@@ -1,6 +1,6 @@
 body {
   background-color:#edf5f7;
-  font-family:lora, serif;
+  font-family:Arial, serif;
   color:#575F7D;
   font-size:17px;
   font-weight: lighter;
@@ -8,7 +8,6 @@ body {
 }
 
 h1, h2 {
-  font-family:lora, serif;
   color:#575F7D;
   font-size:32px;;
   line-height:2px;
@@ -80,7 +79,7 @@ background-color:#000;
 }
 
 @media (max-width: 960px) {
-  /* For a screen < 960px, this CSS will be read
+  /* For a screen < 960px, this CSS will be read*/
   .container {
     width: 700px;
   }
